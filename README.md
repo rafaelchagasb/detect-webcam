@@ -1,5 +1,5 @@
  
-# detect-webcam
+# Page web to check if webcam is working correctly
 
 Install dependencies
 
